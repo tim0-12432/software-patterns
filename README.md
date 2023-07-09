@@ -17,5 +17,5 @@ Originated through my preparation for the exams in module `Software Architecture
 - [x] [Builder](./src/main/java/de/tim0_12432/builder)
 - [x] [Command](./src/main/java/de/tim0_12432/command)
 - [x] [Proxy](./src/main/java/de/tim0_12432/proxy)
-- [ ] Adapter
+- [x] [Adapter](./src/main/java/de/tim0_12432/adapter)
 - [ ] Flyweight
