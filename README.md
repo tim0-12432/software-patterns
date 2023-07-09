@@ -2,7 +2,7 @@
 
 Originated through my preparation for the exams in module `Software Architecture`.
 
-<img alt="Meme" height="350px" src="" />
+<img alt="Meme" height="350px" src="https://images3.memedroid.com/images/UPLOADED793/5b4f049b3a976.jpeg" />
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Originated through my preparation for the exams in module `Software Architecture
 - [x] [Composite](./src/main/java/de/tim0_12432/composite)
 - [x] [Observer](./src/main/java/de/tim0_12432/observer)
 - [x] [Singleton](./src/main/java/de/tim0_12432/singleton)
-- [ ] Strategy
+- [x] [Strategy](./src/main/java/de/tim0_12432/strategy)
 - [ ] Factory
 - [ ] Builder
 - [ ] Command
