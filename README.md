@@ -15,7 +15,7 @@ Originated through my preparation for the exams in module `Software Architecture
 - [x] [Strategy](./src/main/java/de/tim0_12432/strategy)
 - [x] [Factory](./src/main/java/de/tim0_12432/factory)
 - [x] [Builder](./src/main/java/de/tim0_12432/builder)
-- [ ] Command
+- [x] [Command](./src/main/java/de/tim0_12432/command)
 - [ ] Proxy
 - [ ] Adapter
 - [ ] Flyweight
