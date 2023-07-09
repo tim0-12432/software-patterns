@@ -13,7 +13,7 @@ Originated through my preparation for the exams in module `Software Architecture
 - [x] [Observer](./src/main/java/de/tim0_12432/observer)
 - [x] [Singleton](./src/main/java/de/tim0_12432/singleton)
 - [x] [Strategy](./src/main/java/de/tim0_12432/strategy)
-- [ ] Factory
+- [ ] [Factory](./src/main/java/de/tim0_12432/factory)
 - [ ] Builder
 - [ ] Command
 - [ ] Proxy
