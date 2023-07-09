@@ -18,4 +18,4 @@ Originated through my preparation for the exams in module `Software Architecture
 - [x] [Command](./src/main/java/de/tim0_12432/command)
 - [x] [Proxy](./src/main/java/de/tim0_12432/proxy)
 - [x] [Adapter](./src/main/java/de/tim0_12432/adapter)
-- [ ] Flyweight
+- [x] [Flyweight](./src/main/java/de/tim0_12432/flyweight)
