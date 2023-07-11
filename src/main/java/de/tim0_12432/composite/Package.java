@@ -21,4 +21,15 @@ public class Package extends Element {
         sb.append(']');
         return sb.toString();
     }
+
+    @Override
+    int getCount() {
+        int count = 0;
+
+        for (Element element : elements) {
+            count += element.getCount();
+        }
+
+        return count;
+    }
 }

@@ -6,4 +6,9 @@ public class Tshirt extends Element {
     String printOut() {
         return "Tshirt";
     }
+
+    @Override
+    int getCount() {
+        return 1;
+    }
 }
